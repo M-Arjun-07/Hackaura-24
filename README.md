@@ -2,10 +2,9 @@
 This project is being made for the upcoming Hackaura by VITAura 2024
 
 ## Todo:
-- ~~Get an AI API key~~ Powered by gemini-flash-1.5
-- ~~Database system~~ Using supabase
+- Powered by gemini-flash-1.5
+- Using supabase
 - Get an idea to work on
-- Make the ppt
 - Code the frontend/backend (if any)
 
 ## Current ideas:
